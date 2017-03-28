@@ -1,7 +1,7 @@
 package pl.akademiakodu.beans;
 
 /**
- * Created by Валентина on 28.03.2017.
+ * Created by DmytroBartoshchuk on 28.03.2017.
  */
 public class SimpleMessageProducer implements MessageProducer{
     @Override
