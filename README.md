@@ -1,2 +1,2 @@
-# SpringBootDependencyInjectionTrainnig
+# SpringBootDependencyInjectionTraining
 SpringBoot - Dependency Injection Training
